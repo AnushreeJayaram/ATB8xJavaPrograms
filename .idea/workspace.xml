@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070c852d-8f60-47b1-8329-954d6951922e" name="Changes" comment="">
+    <list default="true" id="070c852d-8f60-47b1-8329-954d6951922e" name="Changes" comment="Save the changes">
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_06092024/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_06092024/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_06092024/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_06092024/Lab007.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AnushreeJayaram"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AnushreeJayaram&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AnushreeJayaram/ATB8xJavaPrograms.git",
-    "accountId": "327ec948-2b75-42ec-a6b3-99779c71f5cb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AnushreeJayaram/ATB8xJavaPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;327ec948-2b75-42ec-a6b3-99779c71f5cb&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2let9UmouPUtyCHqF2f6ZHfPW9m" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,12 +51,49 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Lab004.executor": "Run",
+    "Application.Lab006.executor": "Run",
+    "Application.Lab007.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/91789/IdeaProjects/ATB8xJavaPrograms/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Lab007">
+    <configuration name="Lab006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex_06092024.Lab006" />
+      <module name="ATB8xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sept.ex_06092024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex_06092024.Lab007" />
+      <module name="ATB8xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sept.ex_06092024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab007" />
+        <item itemvalue="Application.Lab006" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +103,20 @@
       <option name="presentableId" value="Default" />
       <updated>1725552230472</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add the filed">
+      <option name="closed" value="true" />
+      <created>1725556550779</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725556550779</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add the filed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the filed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
